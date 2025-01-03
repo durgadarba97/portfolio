@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Gallery on Durga</title>
-    <link>https://durgadarba97.github.io/portfolio/gallery/</link>
+    <link>https://www.ddarba.com/gallery/</link>
     <description>Recent content in Image Gallery on Durga</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://durgadarba97.github.io/portfolio/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ddarba.com/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
